@@ -53,7 +53,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/arsh-bhatia08/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/antonioisback_cool/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/arshbhatia_8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-FOsJfMQXWFnYh2bDmIQFA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
