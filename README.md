@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **C++ language**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **Data Structure and Python**
 
 - 👨‍💻 My social media handle  **https://www.linkedin.com/in/arsh-bhatia08/**
 
