@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Python**
 
-- 👨‍💻 My social media handle  **https://www.linkedin.com/in/arsh-bhatia08/**
+- 👨‍💻 My social media handle  **https://www.linkedin.com/in/arsh-bhatia-/**
 
 - 📫 How to reach me **arshbhatia1551@gmail.com**
 
