@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **Data Structure and Python**
+- 🔭 I’m currently working on **Mern Stack**
 
 - 👨‍💻 My social media handle  **https://www.linkedin.com/in/arsh-bhatia-/**
 
-- 📫 How to reach me **arshbhatia1551@gmail.com**
+- 📫 How to reach me **ab4662@srmist.edu.in**
 
 - ⚡ Fun fact **I love to interact with people**
 
