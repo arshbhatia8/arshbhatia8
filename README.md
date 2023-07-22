@@ -27,6 +27,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=arshbhatia8&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=arshbhatia8&icon=0&color=12)](https://visitcount.itsvg.in)
+![LeetCode Stats](https://leetcode.card.workers.dev/arshbhatia1551?theme=dark&font=baloo&extension=null)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
