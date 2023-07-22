@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
+<h3>Let's Connect<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arsh-bhatia-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsh-bhatia-/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/arshbhatia08/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arshbhatia08 height="30" width="40" /></a>
