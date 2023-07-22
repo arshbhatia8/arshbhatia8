@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="1200" height="600">
-<h1 align="center"># 💫 About Me: </h1>
+<h1 align="center">💫 About Me: </h1>
 🔭 I’m currently working on Mern Stack<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arsh-bhatia-/<br><br>📫 How to reach me ab4662@srmist.edu.in<br><br>⚡ Fun fact I love to interact with people
 
 
