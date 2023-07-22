@@ -1,4 +1,4 @@
-
+<a href="#"><img width="100%" height="auto" src="https://imgur.com/Z9n1y5S.gif" height="175px"/></a>
 <h1 align="center">💫 About Me: </h1>
 🔭 I’m currently working on Mern Stack<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arsh-bhatia-/<br><br>📫 How to reach me ab4662@srmist.edu.in<br><br>⚡ Fun fact I love to interact with people
 
