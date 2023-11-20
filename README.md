@@ -1,7 +1,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 <h1 align="center">💫 About Me: </h1>
-🔭 I’m currently working on Mern Stack<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arsh-bhatia-/<br><br>📫 How to reach me ab4662@srmist.edu.in<br><br>⚡ Fun fact I love to interact with people
+🔭 I’m currently working on Machine Learning<br><br>👨‍💻 My social media handle https://www.linkedin.com/in/arsh-bhatia-/<br><br>📫 How to reach me ab4662@srmist.edu.in<br><br>⚡ Fun fact I love to interact with people
 
 
 ## 🌐 Socials:
